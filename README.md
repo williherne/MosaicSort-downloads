@@ -1,6 +1,6 @@
 # MosaicSort
 
-Kaunis ja rauhallinen lasimosaiikkien lajittelupeli Androidille. Ei mainoksia, Ã¤Ã¤niÃ¤, kirjautumista tai pelaamiseen tarvittavaa verkkoyhteyttÃ¤. Mukana kolme vaikeustasoa, viikkopeli ja laitteella sÃ¤ilyvÃ¤ Wall of Fame.
+Kaunis ja rauhallinen lasimosaiikkien lajittelupeli Androidille. Ei mainoksia, ääniä, kirjautumista tai pelaamiseen tarvittavaa verkkoyhteyttä. Mukana kolme vaikeustasoa, viikkopeli ja laitteella säilyvä Wall of Fame.
 
 ## Lataa ja asenna
 
@@ -9,19 +9,19 @@ Kaunis ja rauhallinen lasimosaiikkien lajittelupeli Androidille. Ei mainoksia, �
 Android 8.0 tai uudempi. GitHub-kirjautumista ei tarvita.
 
 1. Lataa APK puhelimen selaimella ja avaa ladattu tiedosto.
-2. Salli pyydettÃ¤essÃ¤ selaimelle asentaminen tÃ¤stÃ¤ lÃ¤hteestÃ¤ ja valitse Asenna.
-3. Voit poistaa selaimen asennusluvan tÃ¤mÃ¤n jÃ¤lkeen. Peli toimii ilman nettiÃ¤.
+2. Salli pyydettäessä selaimelle asentaminen tästä lähteestä ja valitse Asenna.
+3. Voit poistaa selaimen asennusluvan tämän jälkeen. Peli toimii ilman nettiä.
 
 [Julkaisutiedot ja SHA-256-tarkistussumma](https://github.com/williherne/MosaicSort-downloads/releases/tag/v0.8.0)
 
-Jos puhelimessa on vanha kehitysversio ja pÃ¤ivitys epÃ¤onnistuu, Ã¤lÃ¤ poista peliÃ¤ tai sen tietoja. Ota yhteyttÃ¤ ensin. Uudet asennukset kÃ¤yttÃ¤vÃ¤t julkaisuavainta.
+Jos puhelimessa on vanha kehitysversio ja päivitys epäonnistuu, älä poista peliä tai sen tietoja. Ota yhteyttä ensin. Uudet asennukset käyttävät julkaisuavainta.
 
 ## Huomioitavaa
 
-KeskenerÃ¤inen peli sÃ¤ilyy vain sovelluksen prosessin muistissa. Android voi sulkea prosessin taustalla. Asetukset ja valmiit tulokset tallennetaan omalle laitteelle. Muita puhelimia, TalkBackin koko kÃ¤sikÃ¤yttÃ¶Ã¤ ja Ã¤Ã¤nikirjan todellista kuuntelua ei ole kattavasti testattu. Sovellus voi sisÃ¤ltÃ¤Ã¤ virheitÃ¤.
+Keskeneräinen peli säilyy vain sovelluksen prosessin muistissa. Android voi sulkea prosessin taustalla. Asetukset ja valmiit tulokset tallennetaan omalle laitteelle. Muita puhelimia, TalkBackin koko käsikäyttöä ja äänikirjan todellista kuuntelua ei ole kattavasti testattu. Sovellus voi sisältää virheitä.
 
-TÃ¤mÃ¤ repositorio sisÃ¤ltÃ¤Ã¤ vain latausohjeet ja julkaistut asennuspaketit. LÃ¤hdekoodia ja kehityshistoriaa ei julkaista tÃ¤Ã¤llÃ¤. GitHubin automaattiset Source code -paketit sisÃ¤ltÃ¤vÃ¤t vain tÃ¤mÃ¤n latausrepositorion ohjeet.
+Tämä repositorio sisältää vain latausohjeet ja julkaistut asennuspaketit. Lähdekoodia ja kehityshistoriaa ei julkaista täällä. GitHubin automaattiset Source code -paketit sisältävät vain tämän latausrepositorion ohjeet.
 
-Suunnittelu: Terhi yhdessÃ¤ tekoÃ¤lyn kanssa. Koodaus: tekoÃ¤lyagentti Mosse. Grafiikat on luotu tekoÃ¤lyn avulla. Ei ihmisen tekemÃ¤Ã¤ lÃ¤hdekoodikatselmointia.
+Suunnittelu: Terhi yhdessä tekoälyn kanssa. Koodaus: tekoälyagentti Mosse. Grafiikat on luotu tekoälyn avulla. Ei ihmisen tekemää lähdekoodikatselmointia.
 
-PeliÃ¤ saa pelata vapaasti omalla vastuulla. Palaute ja yhteistyÃ¶ehdotukset: [MagicSort@proton.me](mailto:MagicSort@proton.me).
+Peliä saa pelata vapaasti omalla vastuulla. Palaute ja yhteistyöehdotukset: [MagicSort@proton.me](mailto:MagicSort@proton.me).
